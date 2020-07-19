@@ -3,7 +3,7 @@ name: 马上更新
 on:
   schedule:
     # Runs at 12am UTC
-    - cron: '43 20 * * *'
+    - cron: '45 20 * * *'
 
 jobs:
   update-readme:
