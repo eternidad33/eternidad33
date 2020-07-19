@@ -1,9 +1,9 @@
-name: 马上更新
+name: 0点更新
 
 on:
   schedule:
     # Runs at 12am UTC
-    - cron: '45 20 * * *'
+    - cron: '0 0 * * *'
 
 jobs:
   update-readme:
