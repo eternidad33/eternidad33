@@ -18,7 +18,6 @@
 📊 **本周编码时长**
 
 <!--START_SECTION:waka-->
-
 ```text
 Week: 11 July, 2020 - 18 July, 2020
 
