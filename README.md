@@ -15,4 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <!--START_SECTION:waka-->
+```text
+Week: 11 July, 2020 - 18 July, 2020
+
+Java        1 hr                ███████████████████░░░░░░   79.13 % 
+Python      9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+Git Config  3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+Markdown    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+Other       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+```
 <!--END_SECTION:waka-->
