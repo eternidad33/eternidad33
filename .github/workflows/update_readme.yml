@@ -1,6 +1,10 @@
-name: 12点更新
+name: Waka Readme12
 
 on:
+  workflow_dispatch:
+  push:
+    branches: 
+      - master
   schedule:
     # Runs at 12am UTC
     - cron: '0 12 * * *'
