@@ -18,7 +18,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 July, 2020 - 20 July, 2020
+Week: 14 July, 2020 - 21 July, 2020
 
 Markdown    4 hrs 13 mins       █████████████████░░░░░░░░   68.73 % 
 Java        1 hr                ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
