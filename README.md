@@ -41,7 +41,7 @@ JSON       7 mins          ░░░░░░░░░░░░░░░░░�
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=eternidad33&theme=synthwave" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=eternidad33&show_icons=true&theme=synthwave" alt="eternidad33's github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=eternidad33&show_icons=true&theme=synthwave" />
 </a>
 <br/>
 <a href="https://github.com/eternidad33/eternidad33">
