@@ -28,6 +28,7 @@ JSON       7 mins          ░░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
+[![eternidad33's github stats](https://github-readme-stats.vercel.app/api?username=eternidad33)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 红红火火恍恍惚惚
 
