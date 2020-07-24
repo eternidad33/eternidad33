@@ -14,9 +14,9 @@ jobs:
     name: 更新wakatime README
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@0.1.3
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN}}
+#           GH_TOKEN: ${{ secrets.GH_TOKEN}}
           USERNAME: eternidad33
           SHOW_TITLE: true
