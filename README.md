@@ -5,6 +5,7 @@
   <a href="https://blog.csdn.net/qq_42907802"><img src="https://img.shields.io/badge/CSDN-cf000e" alt="csdn"></a>
 </p>
 
+<img align='right' src="https://gitee.com/eternidad33/picbed/raw/master/img/883710.jpg" width="230">
 
 - 😄**后端** C，C++，Java，Python
 - 😃**前端** HTML，CSS，JavaScript
@@ -41,6 +42,9 @@ Windows                  9 hrs 47 mins       ███████████�
 
 
 ## 红红火火恍恍惚惚
+
+<img align='right' src="https://cdn.jsdelivr.net/gh/eternidad33/picbed/img/2020729.jpg" width="230">
+
 <details>
 <summary>GitHub统计信息</summary>
 
