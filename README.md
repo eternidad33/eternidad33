@@ -65,8 +65,8 @@ Windows                  30 hrs 55 mins      ███████████�
 <a href="https://github.com/eternidad33/eternidad33">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=eternidad33&repo=eternidad33&theme=synthwave" />
 </a>    
-<a href="https://github.com/eternidad33/eternidad33.github.io">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=eternidad33&repo=eternidad33.github.io&theme=synthwave" />
+<a href="https://gitee.com/eternidad33/leetcode">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=xy221&repo=leetcode&theme=synthwave" />
 </a>
 </details>
 <details>
