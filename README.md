@@ -49,6 +49,8 @@ Windows           34 hrs 50 mins      ██████████████
 <details>
 <summary>GitHub统计信息</summary>
 
+<br/>
+
 > 动态太少，不好意思展示
 > 
 > 下面的GitHub统计信息是来自于[github-readme-stats](https://github.com/anuraghazra/github-readme-stats)项目，里边有[中文文档](https://github.com/anuraghazra/github-readme-stats/blob/master/readme_cn.md)
@@ -72,6 +74,8 @@ Windows           34 hrs 50 mins      ██████████████
 </details>
 <details>
 <summary>梦想中的考研分数</summary>
+
+<br/>
 
 |  科目  | 分数 |
 | :----: | :--: |
