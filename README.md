@@ -46,6 +46,7 @@ Windows           36 hrs 2 mins       ██████████████
 ## 红红火火恍恍惚惚
 
 <img align='right' src="https://cdn.jsdelivr.net/gh/eternidad33/picbed/img/2020729.jpg" width="230">
+<img align='right' src="https://profile-counter.glitch.me/eternidad33/count.svg" alt="访客数量"/>
 
 <details>
 <summary>GitHub统计信息</summary>
@@ -57,20 +58,22 @@ Windows           36 hrs 2 mins       ██████████████
 > 下面的GitHub统计信息是来自于[github-readme-stats](https://github.com/anuraghazra/github-readme-stats)项目，里边有[中文文档](https://github.com/anuraghazra/github-readme-stats/blob/master/readme_cn.md)
 
 <a href="https://github.com/eternidad33/eternidad33">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=eternidad33&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=eternidad33" />
 </a>
 <a href="https://github.com/eternidad33/eternidad33">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=eternidad33&show_icons=true&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=eternidad33&show_icons=true" />
 </a>
 <br/>
 
-#### 近期更新的仓库
+---
+
+*近期更新的仓库*
 
 <a href="https://github.com/eternidad33/eternidad33">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=eternidad33&repo=eternidad33&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=eternidad33&repo=eternidad33" />
 </a>    
 <a href="https://gitee.com/eternidad33/leetcode">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=xy221&repo=leetcode&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=xy221&repo=leetcode" />
 </a>
 </details>
 <details>
