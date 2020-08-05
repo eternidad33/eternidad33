@@ -73,7 +73,7 @@ Windows           23 hrs 11 mins      ██████████████
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=eternidad33&repo=eternidad33" />
 </a>    
 <a href="https://gitee.com/eternidad33/leetcode">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=xy221&repo=leetcode" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=eternidad33&repo=leetcode" />
 </a>
 </details>
 <details>
