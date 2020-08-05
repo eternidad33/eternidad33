@@ -72,6 +72,13 @@ Windows           23 hrs 11 mins      ██████████████
 <a href="https://gitee.com/eternidad33/leetcode">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=eternidad33&repo=leetcode" />
 </a>
+
+<br/>
+
+<br/>
+
+[![eternidad33's contribution graph as a Game of Life](https://github4life.herokuapp.com/eternidad33.gif)](https://github4life.herokuapp.com/eternidad33)
+
 </details>
 
 **🙏考研上岸**
