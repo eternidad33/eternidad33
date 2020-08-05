@@ -73,22 +73,6 @@ Windows           23 hrs 11 mins      ██████████████
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=eternidad33&repo=leetcode" />
 </a>
 </details>
-<details>
-<summary>梦想中的考研分数</summary>
-
-<br/>
-
-|  科目  | 分数 |
-| :----: | :--: |
-|  政治  | 100  |
-|  英语  | 100  |
-|  数学  | 150  |
-| 专业课 | 150  |
-|  总分  | 500  |
-
-:alien: 哈哈，果然是在做梦
-</details>
-
 
 **🙏考研上岸**
 
