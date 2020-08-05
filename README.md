@@ -58,9 +58,6 @@ Windows           23 hrs 11 mins      ██████████████
 > 下面的GitHub统计信息是来自于[github-readme-stats](https://github.com/anuraghazra/github-readme-stats)项目，里边有[中文文档](https://github.com/anuraghazra/github-readme-stats/blob/master/readme_cn.md)
 
 <a href="https://github.com/eternidad33/eternidad33">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=eternidad33" />
-</a>
-<a href="https://github.com/eternidad33/eternidad33">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=eternidad33&show_icons=true" />
 </a>
 <br/>
