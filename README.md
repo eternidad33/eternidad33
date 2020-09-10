@@ -18,7 +18,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 September, 2020 - 08 September, 2020
+Week: 02 September, 2020 - 09 September, 2020
 
 💬 编程语言: 
 Python            5 hrs               ██████████████████░░░░░░░   74.76% 
