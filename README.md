@@ -45,7 +45,6 @@ Windows           4 hrs 45 mins       ██████████████
 
 ## 红红火火恍恍惚惚
 
-<img align='right' src="https://cdn.jsdelivr.net/gh/eternidad33/picbed/img/2020729.jpg" width="230">
 <img align='right' src="https://profile-counter.glitch.me/eternidad33/count.svg" alt="访客数量"/>
 
 <details>
