@@ -18,7 +18,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 November, 2020 - 14 November, 2020
+Week: 08 November, 2020 - 15 November, 2020
 
 💬 编程语言: 
 Python            1 hr 47 mins        ████████████████████░░░░░   82.53% 
