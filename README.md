@@ -18,16 +18,16 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 February, 2021 - 25 February, 2021
+Week: 19 February, 2021 - 26 February, 2021
 
 💬 编程语言: 
-Markdown          3 mins              █████████████████████████   100.0%
+No Activity tracked this Week
 
 🔥 常用编辑器: 
-VS Code           3 mins              █████████████████████████   100.0%
+No Activity tracked this Week
 
 💻 操作系统: 
-Windows           3 mins              █████████████████████████   100.0%
+No Activity tracked this Week
 
 ```
 
