@@ -5,7 +5,7 @@
   <a href="https://blog.csdn.net/qq_42907802"><img src="https://img.shields.io/badge/CSDN-cf000e" alt="csdn"></a>
 </p>
 
-<img align='right' src="https://cdn.jsdelivr.net/gh/eternidad33/picbed/img/883711.jpg" width="230">
+<img align='right' src="https://profile-counter.glitch.me/eternidad33/count.svg" alt="访客数量"/>
 
 - 😄**后端** C，C++，Java，Python
 - 😃**前端** HTML，CSS，JavaScript
@@ -14,7 +14,7 @@
 - 😛**设计** Photoshop，Audition，Premiere，DaVinci
 - 😧**都不精通**
 
-## 📊 本周编码时长
+**本周编码时长**
 
 <!--START_SECTION:waka-->
 ```text
@@ -43,9 +43,6 @@ Windows           34 hrs              ██████████████
 
 
 
-## 红红火火恍恍惚惚
-
-<img align='right' src="https://profile-counter.glitch.me/eternidad33/count.svg" alt="访客数量"/>
 
 <details>
 <summary>GitHub统计信息</summary>
@@ -80,26 +77,4 @@ Windows           34 hrs              ██████████████
 
 </details>
 
-**🙏考研上岸**
 
-```
-                                 _                                  
-                              _ooOoo_                               
-                             o8888888o                              
-                             88" . "88                              
-                             (| -_- |)                              
-                             O\  =  /O                              
-                          ____/`---'\____                           
-                        .'  \\|     |//  `.                         
-                       /  \\|||  :  |||//  \                        
-                      /  _||||| -:- |||||_  \                       
-                      |   | \\\  -  /'| |   |                       
-                      | \_|  `\`---'//  |_/ |                       
-                      \  .-\__ `-. -'__/-.  /                       
-                    ___`. .'  /--.--\  `. .'___                     
-                 ."" '<  `.___\_<|>_/___.' _> \"".                  
-                | | :  `- \`. ;`. _/; .'/ /  .' ; |           
-                \  \ `-.   \_\_`. _.'_/_/  -' _.' /                 
-  ================-.`___`-.__\ \___  /__.-'_.'_.-'================  
-                              `=--=-'                            
-```
