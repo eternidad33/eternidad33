@@ -7,12 +7,10 @@
 
 <img align='right' src="https://profile-counter.glitch.me/eternidad33/count.svg" alt="访客数量"/>
 
-- 😄**后端** C，C++，Java，Python
-- 😃**前端** HTML，CSS，JavaScript
-- 😆**数据库** MySQL
-- 😝**框架** SpringBoot，Django
-- 😛**设计** Photoshop，Audition，DaVinci
-- 😧**略懂**
+- 📚**考研**：数一，英一，408
+- 💻**后端**：Java，Python
+- 📝**前端**：HTML，CSS，JS
+- 💼**数据库**：MySQL，Redis
 
 **本周编码时长**
 
