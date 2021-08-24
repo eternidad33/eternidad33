@@ -12,7 +12,7 @@
 - 📝**前端**：HTML，CSS，JS
 - 💼**数据库**：MySQL，Redis
 
-**本周编码时长**
+**最近七天编码时长**
 
 <!--START_SECTION:waka-->
 ```text
@@ -33,11 +33,7 @@ Windows           23 hrs 5 mins       ██████████████
 
 ```
 
-
 <!--END_SECTION:waka-->
-
-
-
 
 <details>
 <summary>GitHub统计信息</summary>
