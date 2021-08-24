@@ -51,25 +51,6 @@ Windows           23 hrs 5 mins       ██████████████
 <a href="https://github.com/eternidad33/eternidad33">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=eternidad33&show_icons=true" />
 </a>
-<br/>
-
----
-
-*近期更新的仓库*
-
-<a href="https://github.com/eternidad33/eternidad33">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=eternidad33&repo=eternidad33" />
-</a>    
-<a href="https://gitee.com/eternidad33/leetcode">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=eternidad33&repo=leetcode" />
-</a>
-
-<br/>
-
-<br/>
-
-[![eternidad33's contribution graph as a Game of Life](https://github4life.herokuapp.com/eternidad33.gif)](https://github4life.herokuapp.com/eternidad33)
-
 </details>
 
 
