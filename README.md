@@ -12,7 +12,7 @@
 - 📝**前端**：HTML，CSS，JS
 - 💼**数据库**：MySQL，Redis
 
-**最近七天编码时长**
+**上周编码时长**
 
 <!--START_SECTION:waka-->
 ```text
