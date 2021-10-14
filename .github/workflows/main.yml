@@ -7,19 +7,13 @@ on:
   workflow_dispatch:
   schedule:
     # Runs at 12am UTC
-    - cron: '0 0 * * *'
+    - cron: '0 1 * * 1'
 
 jobs:
   update-readme:
     name: 更新wakatime README
     runs-on: ubuntu-latest
     steps:
-#       - uses: athul/waka-readme@master
-#         with:
-#           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-# #           GH_TOKEN: ${{ secrets.GH_TOKEN}}
-#           USERNAME: eternidad33
-#           SHOW_TITLE: true
       - uses: eternidad33/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
