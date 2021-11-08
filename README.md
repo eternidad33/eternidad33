@@ -17,7 +17,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 October, 2021 - 31 October, 2021
+Week: 31 October, 2021 - 07 November, 2021
 
 💬 编程语言: 
 No Activity tracked this Week
