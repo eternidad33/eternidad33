@@ -16,21 +16,40 @@
 **上周编码时长**  
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 10 Contributions in the Year 2023
+ > 
+> 📦 222.9 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 14 Public Repositories 
+ > 
+> 🔑 1 Private Repository 
+ > 
+**I Mostly Code in Jupyter Notebook** 
+
 ```text
-最近一周: 2022/10/16 - 2022/10/23
-
-💬 编程语言: 
-No Activity tracked this Week
-
-🔥 常用编辑器: 
-No Activity tracked this Week
-
-💻 操作系统: 
-No Activity tracked this Week
+Jupyter Notebook         3 repos             █████░░░░░░░░░░░░░░░░░░░░   23.08% 
+Java                     3 repos             █████░░░░░░░░░░░░░░░░░░░░   23.08% 
+Python                   3 repos             █████░░░░░░░░░░░░░░░░░░░░   23.08% 
+HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
+JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38%
 
 ```
 
 
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/eternidad33/eternidad33/master/charts/bar_graph.png) 
+
+
+ Last Updated on 24/01/2023 04:01:50 UTC
 <!--END_SECTION:waka-->
 
 <details>
